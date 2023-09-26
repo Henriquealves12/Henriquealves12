@@ -1,1 +1,1 @@
-+ ## Seja Bem Bindo (a) ao meu perfil 😊
++ ## Seja Bem Vindo(a) ao meu perfil 😊
