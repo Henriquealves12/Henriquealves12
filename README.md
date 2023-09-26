@@ -2,7 +2,7 @@ Bem-vindo(a) ao perfil do Henrique 😁
 
  <div>
    <a href="https://github.com/henrique">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriquealves_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" scr="https://github-readme-status.vercel.app/api?username=Henriquealves12&show_icons=true&theme=tokyonight&include_al1_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
